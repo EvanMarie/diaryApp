@@ -1,0 +1,4 @@
+{
+  "presets": ["@remix-run/node"],
+  "plugins": ["@chakra-ui/babel-plugin"]
+}
